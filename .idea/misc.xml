@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/volunteer/pom.xml" />
+        <option value="$PROJECT_DIR$/volunteer/back-end/pom.xml" />
+        <option value="$PROJECT_DIR$/urban-traffic-management/pom.xml" />
+        <option value="$PROJECT_DIR$/urban-traffic-management/back-end-utm/pom.xml" />
+        <option value="$PROJECT_DIR$/blog/pom.xml" />
+        <option value="$PROJECT_DIR$/memsys/pom.xml" />
+        <option value="$PROJECT_DIR$/memsys/memsys-back-end/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/utm-back-end/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

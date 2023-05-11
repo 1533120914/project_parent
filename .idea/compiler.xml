@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="memsys-back-end" />
+        <module name="volunteer" />
+        <module name="blog-util" />
+        <module name="back-end-utm" />
+        <module name="blog-web" />
+        <module name="urban-traffic-management" />
+        <module name="blog-dao" />
+        <module name="memsys" />
+        <module name="back-end" />
+        <module name="blog-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="blog" target="1.8" />
+      <module name="utm-back-end" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="back-end" options="-parameters" />
+      <module name="back-end-utm" options="-parameters" />
+      <module name="memsys-back-end" options="-parameters" />
+      <module name="volunteer" options="" />
+    </option>
+  </component>
+</project>

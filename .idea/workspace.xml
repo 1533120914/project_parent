@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94469148-6775-428e-a7ae-47bd9df11b57" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4a484d86-514f-4e65-94d4-a8a1b59a5ad3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4a484d86-514f-4e65-94d4-a8a1b59a5ad3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urban-traffic-management/back-end-utm/src/main/java/org/example/BackEndApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/urban-traffic-management/back-end-utm/src/main/java/org/example/BackEndApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urban-traffic-management/back-end-utm/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/urban-traffic-management/back-end-utm/src/main/resources/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urban-traffic-management/front-end-utm/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/urban-traffic-management/front-end-utm/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/volunteer/back-end/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/volunteer/back-end/src/main/resources/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/volunteer/front-end/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/volunteer/front-end/package-lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/memsys" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2PKKlQa4YBamoGW7iQrDPC9OZbw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/memsys/memsys-front-end/src/views" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\project_parent\memsys\memsys-front-end\src\views" />
+      <recent name="E:\IdeaProjects\project_parent\memsys\memsys-front-end\src" />
+      <recent name="E:\IdeaProjects\project_parent\memsys\memsys-back-end\src\main\resources" />
+      <recent name="E:\IdeaProjects\project_parent\memsys\memsys-back-end\src\main\java\org\example" />
+      <recent name="E:\IdeaProjects\project_parent\urban-traffic-management\front-end-utm\src\views" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.controller" />
+      <recent name="org.example.entity.view" />
+      <recent name="org.example.entity.query" />
+      <recent name="org.example.service.impl" />
+      <recent name="org.example.service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BackEndApplication (1)">
+    <configuration name="BackEndApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="memsys-back-end" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.BackEndApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BackEndApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="back-end-utm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.BackEndApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.BackEndApplication (1)" />
+        <item itemvalue="Spring Boot.BackEndApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="94469148-6775-428e-a7ae-47bd9df11b57" name="变更" comment="" />
+      <created>1683200485139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683200485139</updated>
+      <workItem from="1683200486493" duration="4360000" />
+      <workItem from="1683334351283" duration="43106000" />
+      <workItem from="1683400078324" duration="596000" />
+      <workItem from="1683429065586" duration="3318000" />
+      <workItem from="1683438416004" duration="8267000" />
+      <workItem from="1683454706672" duration="26074000" />
+      <workItem from="1683510162314" duration="239000" />
+      <workItem from="1683510429402" duration="6452000" />
+      <workItem from="1683532463694" duration="91000" />
+      <workItem from="1683532657943" duration="748000" />
+      <workItem from="1683602298359" duration="7502000" />
+      <workItem from="1683645159029" duration="148000" />
+      <workItem from="1683678705102" duration="8000" />
+      <workItem from="1683764166705" duration="1186000" />
+      <workItem from="1683766463403" duration="476000" />
+      <workItem from="1683767672447" duration="872000" />
+      <workItem from="1683769342796" duration="25000" />
+      <workItem from="1683806188088" duration="571000" />
+      <workItem from="1683806796314" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/volunteer/front-end" />
+      <path value="$PROJECT_DIR$/urban-traffic-management/front-end-utm" />
+      <path value="$PROJECT_DIR$/memsys/memsys-front-end" />
+      <path value="$PROJECT_DIR$/urban-traffic-management" />
+      <path value="$PROJECT_DIR$/volunteer" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/volunteer/front-end/src/views/StatisticsView.vue</url>
+          <line>93</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/urban-traffic-management/front-end-utm/src/views/AccuseApplyView.vue</url>
+          <line>37</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

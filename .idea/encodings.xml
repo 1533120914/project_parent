@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/blog/blog-dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/blog/blog-dao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/blog/blog-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/blog/blog-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/blog/blog-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/blog/blog-util/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/blog/blog-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/blog/blog-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/blog/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/blog/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/memsys/memsys-back-end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/urban-traffic-management/back-end-utm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/volunteer/back-end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/volunteer/src/main/java" charset="UTF-8" />
+  </component>
+</project>
